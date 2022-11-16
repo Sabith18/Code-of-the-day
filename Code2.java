@@ -1,4 +1,4 @@
-package codeathon;
+package codeoftheday;
 
 public class Code2 {
 	public static void main(String[] args) {
